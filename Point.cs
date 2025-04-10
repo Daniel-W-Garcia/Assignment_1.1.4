@@ -23,7 +23,7 @@ public struct Point
         }
         else
         {
-            return "Point 1 and Point 2 are at the same vertical location on the X-Axis";
+            return "Point 1 and Point 2 are at the same horizontal location on the X-Axis";
         }
     }
 }
