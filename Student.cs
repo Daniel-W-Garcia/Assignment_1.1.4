@@ -11,4 +11,6 @@ public class Student
     public string StudentFName { get; set; }
     public string StudentLName { get; set; }
     public char StudentGrade { get; set; }
+
+    
 }
